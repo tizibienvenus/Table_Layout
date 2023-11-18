@@ -18,7 +18,7 @@ Ce Projet est exploration de developpement Android sous Java et XML :
 ### Quelques Captures d'écran de l'application
 Table_Layout
 
-<img width="400" alt="Table Layout" src="https://github.com/BESTY-TEAM/besy/blob/dev_tizi/besty_flow_track.jpg"/>
+<img width="400" alt="Table Layout" src="https://github.com/tizibienvenus/Table_Layout/blob/main/Table_Layout.jpg"/>
 
 
 ## Feedback
